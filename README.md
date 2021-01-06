@@ -4,7 +4,7 @@
 
 
 
-![screenshot]
+![screenshot](./uploads/Screen Shot 2020-09-29 at 5.50.52 PM)
 
 ## Features
 
