@@ -4,7 +4,6 @@
 
 
 
-![screenshot](screenshot.png)
 
 ## Features
 
