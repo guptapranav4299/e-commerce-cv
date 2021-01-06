@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-
+![screenshot](screenshot.png)
 
 
 ## Features
